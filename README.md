@@ -25,4 +25,7 @@ Así se creará una carpeta llamada *doc* donde trendremos uno de los muchos arc
   - Restar números complejos.
   - Multiplicar números complejos.
   - Dividir números complejos.
-
+  
+  **SALIDA POR PANTALLA**
+  
+  ![Captura 2](Screenshot_1.png)
