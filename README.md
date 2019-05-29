@@ -17,3 +17,12 @@ En este caso, al utilizar Eclipse, (en NetBeans también existe la posibilidad d
 ![Captura 1](Screenshot_2.png)
 
 Así se creará una carpeta llamada *doc* donde trendremos uno de los muchos archivos creados que se llama *index.html* en el cual nos aparecerá toda la documentación realizada con **Javadoc**.
+
+### ¿Qué hace nuestro programa?
+
+- Nuestro programa realiza una serie de operaciones con números complejos, entre ellas tenemos:
+  - Sumar números complejos.
+  - Restar números complejos.
+  - Multiplicar números complejos.
+  - Dividir números complejos.
+
