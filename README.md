@@ -14,4 +14,4 @@ Este paso es muy simple y se realiza de forma automática con tan solo hacer uno
 
 En este caso, al utilizar Eclipse, (en NetBeans también existe la posibilidad de realizarla) encontraremos en la parte superior la pestaña *Project* y después hacer click en *Generate Javadoc...* como se muestra en la imágen.
 
-![Captura 1]()
+![Captura 1](Screenshot_1.png)
